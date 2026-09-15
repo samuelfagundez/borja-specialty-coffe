@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/4HetAwpQExcHF9GX9",
+    "expandedUrl": "https://www.google.com/maps/place/Borja+Specialty+Coffee/@39.4600421,-0.3493662,21z/data=!4m6!3m5!1s0xd6049ec509dcf2b:0x3310ab891c1e37f1!8m2!3d39.4600622!4d-0.3491639!16s%2Fg%2F11vwjbl8pc?entry=tts&g_ep=EgoyMDI2MDkwOS4wIPu8ASoASAFQAw%3D%3D&skid=f2d7835b-b697-43f6-bd2e-ad5bb4e67f1b&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=3679629500932306929&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJK8-dUOxJYA0R8TceHImrEDM",
+    "featureId": "0xd6049ec509dcf2b:0x3310ab891c1e37f1",
+    "gmapsPlaceRef": "/g/11vwjbl8pc",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-15T21:51:19.490Z"
+  },
+  "name": "Borja Specialty Coffee",
+  "rating": {
+    "score": 4.6,
+    "count": 1078
+  },
+  "phone": "+34 614 30 55 50",
+  "phoneNational": "614 30 55 50",
+  "hours": {
+    "weekly": [
+      "lunes: 8:00–20:00",
+      "martes: 8:00–20:00",
+      "miércoles: 8:00–20:00",
+      "jueves: 8:00–20:00",
+      "viernes: 8:00–20:00",
+      "sábado: 9:00–20:00",
+      "domingo: 9:00–20:00"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 8,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/borjacafe.vlc"
+    }
+  ],
+  "pricePerPerson": "1 € – 10 €",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "links": {
+    "website": "https://www.instagram.com/borjacafe.vlc",
+    "menu": null,
+    "reservations": null,
+    "reservable": false,
+    "googleMaps": "https://maps.google.com/?cid=3679629500932306929&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd6049ec509dcf2b:0x3310ab891c1e37f1!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd6049ec509dcf2b:0x3310ab891c1e37f1!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd6049ec509dcf2b:0x3310ab891c1e37f1!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd6049ec509dcf2b:0x3310ab891c1e37f1!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "C/ de Vicente Beltrán Grimal, 23, Camins al Grau, 46023 València, Valencia",
+    "short": "C/ Vicente Beltrán Grimal, 23, Valencia",
+    "components": {
+      "number": "23",
+      "street": "Carrer de Vicente Beltrán Grimal",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46023"
+    }
+  },
+  "location": {
+    "lat": 39.460062199999996,
+    "lng": -0.3491639
+  },
+  "primaryType": "coffee_shop",
+  "primaryTypeLabel": "Cafetería",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Comer en el local",
+    "Para llevar",
+    "Recogida en la puerta",
+    "Terraza / asientos fuera",
+    "Menú infantil",
+    "Apto para niños",
+    "Se admiten perros",
+    "Aseos",
+    "Desayunos",
+    "Brunch",
+    "Comidas",
+    "Cafés",
+    "Postres",
+    "Opciones vegetarianas",
+    "Cerveza",
+    "Cócteles"
+  ],
+  "accessibility": [
+    "Entrada accesible",
+    "Aseo accesible",
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": false,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": {
+    "freeParkingLot": true,
+    "freeStreetParking": true,
+    "paidStreetParking": true
+  },
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 1080,
+      "heightPx": 1620,
+      "attribution": "Borja Specialty Coffee",
+      "attributionUri": "https://maps.google.com/maps/contrib/104571352572476126068"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Borja Specialty Coffee",
+      "attributionUri": "https://maps.google.com/maps/contrib/104571352572476126068"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Jasmin Wegener",
+      "attributionUri": "https://maps.google.com/maps/contrib/101268746349345052486"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Rado",
+      "attributionUri": "https://maps.google.com/maps/contrib/111526508158939011663"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 3060,
+      "heightPx": 4080,
+      "attribution": "Maria Antonela Amurrio",
+      "attributionUri": "https://maps.google.com/maps/contrib/109632878593875239282"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "attribution": "Мaru Chi",
+      "attributionUri": "https://maps.google.com/maps/contrib/113246024210165223698"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "attribution": "Ariana Pesántez",
+      "attributionUri": "https://maps.google.com/maps/contrib/116677164583430778949"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Stefania",
+      "attributionUri": "https://maps.google.com/maps/contrib/116681119072181578103"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Paloma López",
+      "attributionUri": "https://maps.google.com/maps/contrib/100910129134442989919"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Paloma López",
+      "attributionUri": "https://maps.google.com/maps/contrib/100910129134442989919"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Maria G",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKErydi6yEsjG4jXQoVrdoCyO3exjOR8FZJ-myHKTP_U37zPw=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/109575631630176689408/reviews",
+      "rating": 3,
+      "text": "La comida ha estado bien, el café tiene un sabor un poco raro que nos ha llamado la atención.\n\nPongo una baja calificación por la atención de la chica, tiene mala actitud.\n\nAdemás nos ha traído el roll de canela y los cafés antes que los desayunos, o sea que cuando fuimos a desayunar ya no teníamos café y entre tanta hambre también nos habíamos terminado casi todo el roll de canela.\n\nHay cierto orden para servir normalmente y sino pues tendría que haber preguntado, solo que tal vez su mal humor no se lo permitió.\n\nEl lugar es bonito",
+      "language": "es",
+      "relativeTime": "Hace 3 meses",
+      "publishTime": "2026-06-09T19:24:04.954706497Z"
+    },
+    {
+      "author": "Paloma López",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIjfFj6AtYim3BPQ_KlxwDpu7RH3XaK9lXlvleP5Fq6OtCCICeI=s128-c0x00000000-cc-rp-mo-ba7",
+      "authorUri": "https://www.google.com/maps/contrib/100910129134442989919/reviews",
+      "rating": 1,
+      "text": "La verdad que posiblemente he tenido mala suerte pero ha sido una experiencia malísima.\nSegún han abierto a las 9 he entrado a la cafetería. E inmediatamente después se ha llenado de chicas en ropa de deporte que formarían parte de algún equipo. Ellas se han sentado, ocupando prácticamente todo el local.\nEnseguida he pedido y me he sentado, esperando que me trajeran el desayuno. La chica que me ha atendido ha sido lo más seca del mundo, poniendo mala cara mientras me atendía. En cambio, al resto de chicas las habían recibido muy sonrientes (es verdad que esto fue el otro compañero).\nY para colmo, como el local estaba lleno, se me ha puesto al lado un padre con el niño jugando súper cerca, haciendo presión por si terminaba pronto y se podían sentar, cuando no llevaba sentada ni 15 minutos…\nEn cuanto a la comida, menos mal que ha venido pronto, porque con el colapso de las chicas del equipo me temía que se centraran en servirles y olvidarse del resto.\nEl matcha latte con bebida de coco ha venido pronto y poco después el yogur con granola y frutas. La verdad que éste estaba muy bien preparado, con buena cantidad de yogur y granola casera, con frutas variadas (plátano, melocotón y kiwi fundamentalmente) y endulzado con un poco de miel. El toque de la ralladura de lima me ha gustado mucho. Eso sí, me hubiera gustado un poco de crema de frutos secos para completar el desayuno más.\nEl matcha era grande pero me ha resultado algo áspero, y para tener leche de coco, no estaba demasiado sabroso. Punto a favor que no cobran suplemento por la bebida vegetal.\nLo dicho… 10.30€ para sentirme así de mal recibida, pues nunca más. Deberían cuidar a sus clientes, y a todos por igual, de lo contrario no creo que tengan mucho futuro.",
+      "language": "es",
+      "relativeTime": "Hace 7 meses",
+      "publishTime": "2026-02-08T16:04:55.335521040Z"
+    },
+    {
+      "author": "Harry Lime",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjW2V8Mbk1uHjOXXdHcidFRb4iHjCvx_oz3wsYlQYK0-VseU60FZSA=s128-c0x00000000-cc-rp-mo-ba6",
+      "authorUri": "https://www.google.com/maps/contrib/117180865638434909478/reviews",
+      "rating": 4,
+      "text": "Tomamos unos cafés en esta cafetería mientras esperábamos a unos familiares que viven en el mismo edificio.\nTomé el Etiopia y el Colombia,gustándome más este último,siendo yo mucho de cafés etíopes....,a pesar de servir los dos demasiado templados.\nMi pareja pidió un café con leche que le pareció que estaba bueno.\nLa atención justita,rozando lo borde,sonreír es gratuíto.",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-05-18T21:50:12.526206978Z"
+    },
+    {
+      "author": "OnlyJesus",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjV3vPTToY0_XaCbWHV3uklQSEBVx_RdBXSzciePEprymU5HsSQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/114608634244262687232/reviews",
+      "rating": 5,
+      "text": "Una merienda de diez en esta cafetería de especialidad.\n\nBorja Specialty Coffee es una parada estupenda si te gusta el buen café. Nos pedimos un capuchino de especialidad muy rico, con un espresso de calidad y una leche muy bien texturizada, y un café con leche normal que también cumplió de sobra. Se nota que trabajan con producto cuidado y que saben lo que hacen.\n\nPero la sorpresa fue la tarta de queso vasca: cremosa, con ese punto justo de horneado y un sabor buenísimo. De esas que te reconcilian con la vida y que por sí solas ya justifican la visita.\n\nUn punto a favor es que admiten mascotas, así que puedes ir tranquilo con tu compañero de cuatro patas. Además se está fresquito dentro, algo que se agradece muchísimo para sentarse a merendar con calma.\n\nTotalmente recomendable. Volveré a probar más cosas de su carta.",
+      "language": "es",
+      "relativeTime": "Hace 1 mes",
+      "publishTime": "2026-07-25T21:53:51.144477536Z"
+    },
+    {
+      "author": "Andrea Ayala",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocLx453b80Cc0b44dCrfa15h9yHcaIE9ZS5W3oZH70qj8_c8Bog=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/114574041442744834168/reviews",
+      "rating": 5,
+      "text": "Un café pequeño pero muy acogedor.\nNo gustó todo lo que probamos.\nLa torta vasca recomendada.\nLo mejor fue la atención, la chica muy amable.\nTal vez les falta más opciones saladas.\nEl tiempo de espera fue corto.",
+      "language": "es",
+      "relativeTime": "Hace 2 semanas",
+      "publishTime": "2026-08-28T07:17:56.353689679Z"
+    }
+  ]
+}
