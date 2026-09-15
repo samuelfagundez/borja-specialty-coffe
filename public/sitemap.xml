@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://samuelfagundez.github.io/borja-specialty-coffe/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/borja-specialty-coffe/gallery/borja-specialty-coffee-fachada.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/borja-specialty-coffe/gallery/borja-specialty-coffee-barra-exterior.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/borja-specialty-coffe/gallery/borja-specialty-coffee-mostrador-dulces.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/borja-specialty-coffe/gallery/borja-specialty-coffee-croissants.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/borja-specialty-coffe/gallery/borja-specialty-coffee-latte-art.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/borja-specialty-coffe/gallery/borja-specialty-coffee-bowl-granola.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/borja-specialty-coffe/gallery/borja-specialty-coffee-terraza.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
